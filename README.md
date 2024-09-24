@@ -68,4 +68,4 @@
 Если у вас есть вопросы или предложения, пожалуйста, свяжитесь с нами по электронной почте: support@buscompany.com
 
 ## Проектная база
-![Модель автобусных перевозок]([file:///C:/Users/79005/ириночка/модель автобусных перевозок/bus.jpg](https://github.com/irisic12/dotnet/blob/main/модель%20автобусных%20перевозок.pdf))
+![Модель автобусных перевозок]([file:///C:/Users/79005/ириночка/модель/bus.jpg]([https://github.com/irisic12/dotnet/blob/main/модель%20автобусных%20перевозок.pdf](https://github.com/irisic12/dotnet/blob/main/модель.pdf)))
