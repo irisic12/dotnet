@@ -1,0 +1,6 @@
+@BusTransportationModel.Service_HostAddress = http://localhost:5076
+
+GET {{BusTransportationModel.Service_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
