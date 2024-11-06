@@ -1,0 +1,6 @@
+@BusTransportationModel.Repository_HostAddress = http://localhost:5101
+
+GET {{BusTransportationModel.Repository_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
